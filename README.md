@@ -16,3 +16,10 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
  
  # Summary 
 There was a positivity bias for review in the Vine program as more members gave 5 star ratings when compared to the non-Vine members. We should look into the distribition of ratings among non-Vine members and their Verified purchase status. 
+
+
+### Unpaid Reviews Summary
+<img src = 'https://github.com/osbornej-tech/Amazon_Vine_Analysis/blob/main/images/unpaid%20reviews.png'>
+
+### Paid Reviews Summary
+<img src = 'https://github.com/osbornej-tech/Amazon_Vine_Analysis/blob/main/images/paid%20reviews.png'>
